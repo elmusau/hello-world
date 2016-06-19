@@ -1,2 +1,5 @@
 # hello-world
-my very first repository
+
+hi contributors!
+
+Emmanuel musau here, am a developer
